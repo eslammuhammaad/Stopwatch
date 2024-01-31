@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies using npm or yarn: `npm install` or `yarn install`.
 4. Start the development server: `npm run dev` or `yarn dev`.
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the app.
+5. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the app.
 
 ## Usage
 
